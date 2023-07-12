@@ -4,7 +4,21 @@
     box-sizing: border-box;
 }
 
-@include media-breakpoint-up(sm) {
-    .navbar-nav {
-      background: ;
+.carousel-inner{
+    max-height: 40rem;
+}
+
+
+#carritos{
+    margin-top: 30px;
+    
+}
+
+@media screen and (max-width: 576px) {
+    #carritos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
     }
+}
