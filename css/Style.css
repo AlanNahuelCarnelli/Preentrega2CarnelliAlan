@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
-#nav_menu nav{
-    
-}
+@include media-breakpoint-up(sm) {
+    .navbar-nav {
+      background: ;
+    }
