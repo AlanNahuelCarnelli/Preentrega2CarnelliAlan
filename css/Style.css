@@ -23,4 +23,24 @@
     }
 }
 
+.container-info{
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    border-top-width: 40px;
+    
+ }
+ .info-card{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-gap: 1em;
+ }
+ .imagen_info img{
+    max-width: 100%;
+ }
 
+ .info{
+    
+ }
