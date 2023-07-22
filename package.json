@@ -1,0 +1,12 @@
+{
+  "name": "preentrega2carnellialan",
+  "version": "1.0.0",
+  "description": "Repositorio donde se aloja el codigo para mi segunda pre entrega, mi comision es la 42970",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
