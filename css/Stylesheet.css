@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form {
+  background-color: brown;
+  margin: auto;
+  border-color: red;
+}
+
+/*# sourceMappingURL=Stylesheet.css.map */
